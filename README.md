@@ -1,38 +1,39 @@
-[![demolive](https://img.shields.io/badge/demo-live-green.svg)](http://ai.jerouw.nl/)
-[![npmversion](https://img.shields.io/npm/v/ngx-ai.svg)]()
-[![npmlicense](https://img.shields.io/npm/l/ngx-ai.svg)](https://github.com/jeroenouw/AngularAI/blob/master/LICENSE/)
-[![stars](https://img.shields.io/github/stars/jeroenouw/AngularAI.svg)](https://github.com/jeroenouw/AngularAI/stargazers)
-[![downloads](https://img.shields.io/npm/dy/ngx-ai.svg)]()
+## Project dependencies
+* angular 6
+* npm
 
-# Angular 6 AI
+## How to run the app
+* navigate to cloned directory
+* in terminal type `ng serve`
+* Start server and go to `http://localhost:4200` in your browser
 
-A small AI application containing [Angular 6](https://angular.io), [Material](https://material.io/) and [Dialogflow](https://dialogflow.com/).
+## How to get a copy of the project
+```
+git clone https://github.com/Klaus-poppe/advJava
+git checkout [apnaBranchName]  // (square brackets mat dalna)
+```
 
-## [Live demo](http://ai.jerouw.nl) 
+## Before u start working 
+```
+git pull origin master
+this command will make sure u r up to date with the main branch 
+```
+## When u want to upload your changes
+```
+git add .
+git commit -m "short message about the commit"
+git push origin [apnaBranchName]  // (square brackets mat dalna)
+```
+## If u wish to create a new branch 
+```
+git branch [branchName]
+```
 
-![demo](https://jerouw.nl/wp-content/uploads/2017/10/angular5ai.png "demo")
+## Alloted branch names
+* Ashwin Jawahar - master
+* Arnav Ajav - arnav
+* Hrithik raj - hrithik
+* Arjun Sambyal - arjun
+* Nikhil Gahlot - nikhil 
 
-## Features
 
-* Angular 6
-* Material Design
-* RxJS observables
-* Dialogflow AI
-* Chatbot
-
-## Sentences
-
-[A couple of example sentences to get you start talking](https://github.com/jeroenouw/AngularAI/blob/master/docs/SENTENCES.md) 
-
-## Developing
-
-[Quick starting and development](https://github.com/jeroenouw/AngularAI/blob/master/docs/DEVELOPING.md)
-
-## Contributing
-
-Want to file a bug, contribute some code, or improve documentation? Feel free to place an [issue](https://github.com/jeroenouw/AngularAI/issues).  
-
-## Credits
-
-[Angular Firebase](https://angularfirebase.com/)  
-[Dialogflow](https://dialogflow.com/)
